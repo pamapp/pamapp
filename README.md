@@ -6,7 +6,7 @@ I’m Junior IOS-Developer from Saint-Petersburg, Russia. I’m currently studyi
 
 🔹 **PolyAlarm (2021)** - IOS-application developed as a course project in the subject "Software Engineering". This is an alarm that adjusts to the student's schedule and notifies him when class starts.
 
-🔹 **Memories (2022)** - IOS application developed as a research project at a university. It allows you to record the most memorable moments of your life.
+🔹 **Memories (2022)** - IOS-application developed as a research project at a university. It allows you to record the most memorable moments of your life.
 
 <h2>Skills & Tools</h2>
 
@@ -26,6 +26,7 @@ Software development:
 Database:
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Coredata](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Interface development:
 
