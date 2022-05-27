@@ -4,9 +4,9 @@ I’m Junior IOS-Developer from Saint-Petersburg, Russia.
 
 <h2>Projects</h2>
 
-🔹 <a href="https://github.com/pamapp/Poly_Alarm">**PolyAlarm (2021)**</a> - IOS-application developed as a course project in the subject "Software Engineering". This is an alarm that adjusts to the student's schedule and notifies him when class starts.
+▪️ <a href="https://github.com/pamapp/Poly_Alarm">**PolyAlarm (2021)**</a> - IOS-application developed as a course project in the subject "Software Engineering". This is an alarm that adjusts to the student's schedule and notifies him when class starts.
 
-🔹 <a href="https://github.com/pamapp/Memories">**Memories (2022)**</a> - IOS-application developed as a research project at a university. It allows you to record the most memorable moments of your life.
+▪️ <a href="https://github.com/pamapp/Memories" style="color: purple;" >**Memories (2022)**</a> - IOS-application developed as a research project at a university. It allows you to record the most memorable moments of your life.
 
 <h2>Tools</h2>
 
@@ -39,7 +39,7 @@ I’m Junior IOS-Developer from Saint-Petersburg, Russia.
 
 <h2>Contacts</h2>
 
-✏️ Telegram: <a href="https://t.me/pamapp">pamapp</a><br>
-✏️ Email: <a href="mailto:alineus@mail.ru">alineus@mail.ru</a>
+✏️ Telegram: <a href="https://t.me/pamapp">**pamapp**</a><br>
+✏️ Email: <a href="mailto:alineus@mail.ru">**alineus@mail.ru**</a>
 
 I'm actively looking for new ideas and interesting proposals. I'll be glad to cooperate or communicate!
