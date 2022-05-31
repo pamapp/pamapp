@@ -43,3 +43,7 @@ I’m Junior IOS-Developer from Saint-Petersburg, Russia.
 ✏️ Email: <a href="mailto:alineus@mail.ru">**alineus@mail.ru**</a>
 
 I'm actively looking for new ideas and interesting proposals. I'll be glad to cooperate or communicate!
+<br>
+<br>
+
+<img width="125" src="https://user-images.githubusercontent.com/55293935/171183541-bd41dbdc-37f2-460c-976a-0682f8a4b737.png"/>
