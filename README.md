@@ -22,7 +22,7 @@ I’m Junior IOS-Developer from Saint-Petersburg, Russia.
 
 <h2>Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamapp&layout=compact&theme=github_dark&langs_count=3&custom_title=Languages&hide=C)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamapp&layout=compact&theme=github_dark&langs_count=6&custom_title=Languages&hide=C)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Education</h2>
 
