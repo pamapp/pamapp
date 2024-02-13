@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alina Potapova👋</h1>
 
-I’m Junior IOS-Developer from Saint-Petersburg, Russia.
+I’m IOS-Developer from Saint-Petersburg, Russia.
 
 <h2>Projects</h2>
 
