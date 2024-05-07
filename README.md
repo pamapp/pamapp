@@ -4,17 +4,17 @@ I’m IOS-Developer from Saint-Petersburg, Russia.
 
 <h2>Projects</h2>
 
-**Pet-projects**
+**Pet**
 
-▪️ <a href="https://github.com/pamapp/Poly_Alarm">**PolyAlarm (2021)**</a> - iOS-application developed as a course project in the subject "Software Engineering". This is an alarm that adjusts to the student's schedule and notifies him when class starts (SwiftUI).
+* <a href="https://github.com/pamapp/Poly_Alarm">**PolyAlarm (2021)**</a> - iOS-application developed as a course project in the subject "Software Engineering". This is an alarm that adjusts to the student's schedule and notifies him when class starts (SwiftUI).
 
-▪️ <a href="https://github.com/pamapp/Memories" style="color: purple;" >**Memories (2022)**</a> - iOS-application developed as a research project at a university. It allows you to record the most memorable moments of your life (SwiftUI).
+* <a href="https://github.com/pamapp/Memories" style="color: purple;" >**Memories (2022)**</a> - iOS-application developed as a research project at a university. It allows you to record the most memorable moments of your life (SwiftUI).
 
-▪️ <a href="https://github.com/pamapp/Diploma" style="color: purple;" >**Memories 2.0 (2023)**</a> - iOS-application developed as a university graduate work. This is an improved version of Memories that uses a machine learning model to analyze text sentiment, allows the user to record audio messages, and has advanced statistics. Created as a prototype for the main version of the "Memoir" application (UIKit), which is currently in preparation for release on the app store (SwiftUI).
+* <a href="https://github.com/pamapp/Diploma" style="color: purple;" >**Memories 2.0 (2023)**</a> - iOS-application developed as a university graduate work. This is an improved version of Memories that uses a machine learning model to analyze text sentiment, allows the user to record audio messages, and has advanced statistics. Created as a prototype for the main version of the "Memoir" application (UIKit), which is currently in preparation for release on the app store (SwiftUI).
 
-**Internship project**
+**Internship**
 
-▪️ <a href="https://github.com/pamapp/Diabet" style="color: purple;" >**Diabet (2022)**</a> - iOS-application for diabetics developed during an internship at First Line Software (now Code Format) in the third year of university. I gained skills in plist parsing.
+* <a href="https://github.com/pamapp/Diabet" style="color: purple;" >**Diabet (2022)**</a> - iOS-application for diabetics developed during an internship at First Line Software (now Code Format) in the third year of university. I gained skills in plist parsing.
 
 <h2>Tools</h2>
 
