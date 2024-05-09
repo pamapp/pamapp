@@ -12,7 +12,7 @@ I’m IOS-Developer from Saint-Petersburg, Russia.
 
 * <a href="https://github.com/pamapp/Diploma" style="color: purple;" >**Memories 2.0 (2023)**</a> - iOS-application developed as a university graduate work. This is an improved version of Memories that uses a machine learning model to analyze text sentiment, allows the user to record audio messages, and has advanced statistics. Created as a prototype for the main version of the "Memoir" application (UIKit), which is currently in preparation for release on the app store (SwiftUI).
 
-* <a href="https://github.com/pamapp/VladichLessons" style="color: purple;" >**Memoir (2024)**</a> - the final version of the application, written in UIKit. Coming soon on AppStore.
+* <a href="https://github.com/pamapp/VladichLessons" style="color: purple;" >**Memoir (2024)**</a> - the final version of the application, written in UIKit. Coming soon on AppStore (access is closed, I will open it at your request).
 
 **Internship**
 
