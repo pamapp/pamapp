@@ -33,7 +33,7 @@
 | **Software development**   | ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) |
 | **Database**               | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Interface development**  | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
-| **Issue tracking**         | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) |
+| **Issue tracking**         | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)|
 
 <h2>Frameworks</h2>
 ▪️ UIKit ▪️ SwiftUI ▪️ CoreData ▪️ Combine ▪️ Foundation ▪️ UserNotifications ▪️ AVFoundation ▪️ CoreLocation ▪️ MapKit ▪️ CoreML ▪️ CreateML ▪️ NaturalLanguage ▪️ XCTest ▪️ PhotosUI ▪️
