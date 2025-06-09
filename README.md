@@ -15,7 +15,7 @@ let pamapp = Developer(
 
 **App Store**
 
-* <a href="https://github.com/pamapp/VladichLessonshttps://apps.apple.com/ru/app/notica/id6740201262" style="color: purple;" >**Notica (2024)**</a>.
+* <a href="https://apps.apple.com/ru/app/notica/id6740201262" style="color: purple;" >**Notica (2024)**</a>.
 
 **Pet**
 
