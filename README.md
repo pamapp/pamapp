@@ -19,15 +19,17 @@ let pamapp = Developer(
 
 <h2>Проекты</h2>
 
+**App Store**
+
+* <a href="https://github.com/pamapp/VladichLessonshttps://apps.apple.com/ru/app/notica/id6740201262" style="color: purple;" >**Notica (2024)**</a>.
+
 **Pet**
 
 * <a href="https://github.com/pamapp/Poly_Alarm">**PolyAlarm (2021)**</a> - iOS-application developed as a course project in the subject "Software Engineering". This is an alarm that adjusts to the student's schedule and notifies him when class starts (SwiftUI).
 
 * <a href="https://github.com/pamapp/Memories" style="color: purple;" >**Memories (2022)**</a> - iOS-application developed as a research project at a university. It allows you to record the most memorable moments of your life (SwiftUI).
 
-* <a href="https://github.com/pamapp/Diploma" style="color: purple;" >**Memories 2.0 (2023)**</a> - iOS-application developed as a university graduate work. This is an improved version of Memories that uses a machine learning model to analyze text sentiment, allows the user to record audio messages, and has advanced statistics. Created as a prototype for the main version of the "Memoir" application (UIKit), which is currently in preparation for release on the app store (SwiftUI).
-
-* <a href="https://github.com/pamapp/VladichLessons" style="color: purple;" >**Memoir (2024)**</a> - the final version of the application, written in UIKit. Coming soon on AppStore (access is closed, I will open it at your request).
+* <a href="https://github.com/pamapp/Diploma" style="color: purple;" >**Memories 2.0 (2023)**</a> - iOS-application developed as a university graduate work. This is an improved version of Memories that uses a machine learning model to analyze text sentiment, allows the user to record audio messages, and has advanced statistics. Created as a prototype for the main version of the "Notica" application.
 
 **Internship**
 
