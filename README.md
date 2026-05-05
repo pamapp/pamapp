@@ -3,7 +3,7 @@
 ```swift
 let pamapp = Developer(
     name: "Alina Potapova",
-    role: "iOS Developer",
+    role: .iOSDeveloper,
     tech: ["Swift", "SwiftUI", "UIKit", "CoreData"],
     links: [
         "telegram": "t.me/pamapp"
