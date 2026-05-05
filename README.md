@@ -3,15 +3,21 @@
 ```swift
 let pamapp = Developer(
     name: "Alina Potapova",
-    role: .iOSDeveloper,
+    role: "iOS Developer",
     tech: ["Swift", "SwiftUI", "UIKit", "CoreData"],
     links: [
         "telegram": "t.me/pamapp"
     ]
 )
 ```
+<h2>Рабочие проекты</h2>
 
-<h2>Проекты</h2>
+**App Store**
+
+* <a href="https://apps.apple.com/ru/app/the-ultima-world/id6444885457" style="color: purple;" >**The Ultima World (2024 - 2025)**</a>.
+* <a href="https://apps.apple.com/ru/app/%D0%B1%D0%BA%D1%81-%D0%BC%D0%B8%D1%80-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B9-%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80/id1033882791" style="color: purple;" >**БКС Мир Инвестиций (2025 - 2026)**</a>.
+
+<h2>Личные проекты</h2>
 
 **App Store**
 
