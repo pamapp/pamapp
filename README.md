@@ -42,7 +42,9 @@ let pamapp = Developer(
 | **Software development**   | ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) |
 | **Database**               | ![core](https://github.com/pamapp/pamapp/assets/55293935/e6201f37-3bc0-4a62-af40-fc3709a54756) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Interface development**  | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| **AI**  | ![Claude Code](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) |
 | **Issue tracking**         | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)|
+| **Documentation**  | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) |
 
 <h2>Frameworks</h2>
 ▪️ UIKit ▪️ SwiftUI ▪️ CoreData ▪️ Combine ▪️ Foundation ▪️ UserNotifications ▪️ AVFoundation ▪️ CoreLocation ▪️ MapKit ▪️ CoreML ▪️ CreateML ▪️ NaturalLanguage ▪️ XCTest ▪️ PhotosUI ▪️
