@@ -45,6 +45,7 @@ let pamapp = Developer(
 | **AI**  | ![Claude Code](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) |
 | **Issue tracking**         | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)|
 | **Documentation**  | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) |
+| **Network debugging** | ![Proxyman](https://img.shields.io/badge/proxyman-4A90E2?style=for-the-badge&logoColor=white) |
 
 <h2>Frameworks</h2>
 ▪️ UIKit ▪️ SwiftUI ▪️ CoreData ▪️ Combine ▪️ Foundation ▪️ UserNotifications ▪️ AVFoundation ▪️ CoreLocation ▪️ MapKit ▪️ CoreML ▪️ CreateML ▪️ NaturalLanguage ▪️ XCTest ▪️ PhotosUI ▪️
